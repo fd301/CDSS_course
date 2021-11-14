@@ -105,4 +105,15 @@
    - Defences Against Inference Attacks
    - Adversarial Attacks - Explainability
 
+## Acknowledgements
+- Hester Huijsdens for her meticulous work in adopting, simplifying and improving related python notebooks
+- Yola Jones and Shourya Verma for their work on explainable machine learning models
+- Samuel Leighton for his insight in Clinical Decision Support Systems
 
+## Publications
+- D. Ravi, C. Wong, F. Deligianni, M. Berthelot, J. Andreu-Perez, B. Lo, G. Z. Yang, Deep Learning for Health Informatics, IEEE Journal of Biomedical and Health Informatics, 21(1), 2017.
+- J. Andreu-Perez, F. Deligianni, D. Ravi, G. Z. Yang, Artificial Intelligence and Robotics, UK-RAS White Papers, 2017.
+- Y. Jones, F. Deligianni and J Dalton, Improving ECG Classification Interpretability Using Saliency Maps, IEEE BIBE, 2020. (Best paper award)
+- M Podjaski and F. Deligianni, ‘Towards Explainable, Privacy-Preserved Human-Motion Affect Recognition’, IEEE-SSCI 2021, https://arxiv.org/abs/2105.03958.
+- Leighton et al. Development and validation of multivariable prediction models of remission, recovery, and quality of life outcomes in people with first episode psychosis: a machine learning approach, The Lancet: Digital Health, 2019.
+- Leighton et al. Development and validation of a non remission risk prediction model in First Episode Psychosis: An analysis of two longitudinal studies, BJPsych Open, 2021.
