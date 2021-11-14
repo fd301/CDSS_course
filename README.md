@@ -28,6 +28,11 @@
    - Data Extraction
 
 ##  Deep Learning in Electronic Health Records
+<p align="center">
+    <img src="module02.jpg", width="816">
+    <br>
+</p>
+
 - week01: 
    - Deep Learning and Artificial Intelligence
    - Multi-Layer Perceptron
