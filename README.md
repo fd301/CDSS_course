@@ -83,6 +83,11 @@
    - Attention and Explainability
    
 ## Clinical Decision Support Systems
+<p align="center">
+    <img src="module04.jpg", width="816">
+    <br>
+</p>
+
 - week01: 
    - From Reproducibility to Generalisability
    - A Guide to Model Validation in Clinical Decision Support Systems
