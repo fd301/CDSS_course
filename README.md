@@ -2,6 +2,11 @@
 
 
 ## Data Mining of Clinical Databases
+<p align="center">
+    <img src="module01.jpg", width="816">
+    <br>
+</p>
+
 - week01: 
    - Big Data in Healthcare
    - EHR System in the UK and USA
