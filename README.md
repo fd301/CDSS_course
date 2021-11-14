@@ -55,6 +55,11 @@
    - Other Types of Embeddings
 
 ## Explainable Deep Learning Models for Healthcare
+<p align="center">
+    <img src="module03.jpg", width="816">
+    <br>
+</p>
+
 - week01: 
    - Interpretability vs Explainability
    - 'Explainability' in Healthcare Applications
