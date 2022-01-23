@@ -117,3 +117,4 @@
 - M Podjaski and F. Deligianni, ‘Towards Explainable, Privacy-Preserved Human-Motion Affect Recognition’, IEEE-SSCI 2021, https://arxiv.org/abs/2105.03958.
 - Leighton et al. Development and validation of multivariable prediction models of remission, recovery, and quality of life outcomes in people with first episode psychosis: a machine learning approach, The Lancet: Digital Health, 2019.
 - Leighton et al. Development and validation of a non remission risk prediction model in First Episode Psychosis: An analysis of two longitudinal studies, BJPsych Open, 2021.
+- Lee et al. Prediction models in first episode psychosis: a systematic review and critical appraisal, British Journal of Psychiatry, 2022.
