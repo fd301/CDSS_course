@@ -107,7 +107,7 @@
 
 ## Acknowledgements
 - Hester Huijsdens for her meticulous work in adopting, simplifying and improving related python notebooks
-- Yola Jones and Shourya Verma for their work on explainable machine learning models
+- Yola Jones, Shourya Verma and Hester Huijsdens for their work on explainable machine learning models
 - Samuel Leighton for his insight in Clinical Decision Support Systems
 
 ## Publications
