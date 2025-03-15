@@ -110,6 +110,11 @@
 - Yola Jones, Shourya Verma and Hester Huijsdens for their work on explainable machine learning models
 - Samuel Leighton for his insight in Clinical Decision Support Systems
 
+## Related Books
+- M. Alkan, H. Huijsdens, Y. Jones, *F. Deligianni*, [https://arxiv.org/abs/2501.09640 Electronic Health Records: Towards Digital Twins in Healthcare], in 'Smart and Connected Healthcare: Applications and Use Cases', Volume 2, Eds. F. Firouzi, K. Chakrabarty, B. Farahani, Springer, 2025.
+- M. Alkan, I. Zakariyya, S. Leighton, K.B. Sivangi, C. Anagnostopoulos, *F. Deligianni*, [https://arxiv.org/abs/2501.09628 Artificial Intelligence Driven Clinical Decision Support Systems], in 'Smart and Connected Healthcare: Applications and Use Cases', Volume 2, Eds. F. Firouzi, K. Chakrabarty, B. Farahani, Springer, 2025.
+
+
 ## Publications
 - D. Ravi, C. Wong, F. Deligianni, M. Berthelot, J. Andreu-Perez, B. Lo, G. Z. Yang, Deep Learning for Health Informatics, IEEE Journal of Biomedical and Health Informatics, 21(1), 2017.
 - J. Andreu-Perez, F. Deligianni, D. Ravi, G. Z. Yang, Artificial Intelligence and Robotics, UK-RAS White Papers, 2017.
