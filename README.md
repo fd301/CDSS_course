@@ -111,8 +111,8 @@
 - Samuel Leighton for his insight in Clinical Decision Support Systems
 
 ## Related Books
-- M. Alkan, H. Huijsdens, Y. Jones, *F. Deligianni*, [https://arxiv.org/abs/2501.09640 Electronic Health Records: Towards Digital Twins in Healthcare], in 'Smart and Connected Healthcare: Applications and Use Cases', Volume 2, Eds. F. Firouzi, K. Chakrabarty, B. Farahani, Springer, 2025.
-- M. Alkan, I. Zakariyya, S. Leighton, K.B. Sivangi, C. Anagnostopoulos, *F. Deligianni*, [https://arxiv.org/abs/2501.09628 Artificial Intelligence Driven Clinical Decision Support Systems], in 'Smart and Connected Healthcare: Applications and Use Cases', Volume 2, Eds. F. Firouzi, K. Chakrabarty, B. Farahani, Springer, 2025.
+- M. Alkan, H. Huijsdens, Y. Jones, *F. Deligianni*, Electronic Health Records: Towards Digital Twins in Healthcare, in 'Smart and Connected Healthcare: Applications and Use Cases', Volume 2, Eds. F. Firouzi, K. Chakrabarty, B. Farahani, Springer, 2025. [https://arxiv.org/abs/2501.09640]
+- M. Alkan, I. Zakariyya, S. Leighton, K.B. Sivangi, C. Anagnostopoulos, *F. Deligianni*, Artificial Intelligence Driven Clinical Decision Support Systems], in 'Smart and Connected Healthcare: Applications and Use Cases', Volume 2, Eds. F. Firouzi, K. Chakrabarty, B. Farahani, Springer, 2025. [https://arxiv.org/abs/2501.09628]
 
 
 ## Publications
